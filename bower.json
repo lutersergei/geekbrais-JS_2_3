@@ -1,0 +1,7 @@
+{
+  "name": "Geekbrains JS_2_3",
+  "title": "Homework 3",
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
